@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**carlirouscust/carlirouscust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Carlos Custodio](https://raw.githubusercontent.com/carlirouscust/carlirouscust/main/banner.svg)
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GITHUB STATS -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlirouscust&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0a0f&title_color=00fff0&icon_color=ff00a0&text_color=ffffff&ring_color=ff00a0"/>
+&nbsp;&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlirouscust&layout=compact&theme=synthwave&hide_border=true&bg_color=0a0a0f&title_color=00fff0&text_color=ffffff"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=carlirouscust&theme=synthwave&hide_border=true&background=0a0a0f&ring=ff00a0&fire=ff00a0&currStreakLabel=00fff0&sideLabels=00fff0&dates=888888"/>
+
+</div>
