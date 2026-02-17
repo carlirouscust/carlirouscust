@@ -18,8 +18,6 @@
 
 <br/><br/>
 
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-<img src="https://raw.githubusercontent.com/carlirouscust/carlirouscust/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%"/>
 
 </div>
 
