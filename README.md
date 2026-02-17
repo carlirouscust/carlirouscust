@@ -1,8 +1,8 @@
 <div align="center">
-
 <!-- ╔══════════════════════════════════════╗ -->
 <!-- ║         ANIMATED HEADER             ║ -->
 <!-- ╚══════════════════════════════════════╝ -->
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00a0,50:00fff0,100:0a0a0f&height=100&section=header&rotate=180"/>
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&pause=99999&color=00FFF0&center=true&vCenter=true&width=700&height=80&lines=CARLOS+CUSTODIO" alt="Name"/>
 
 <!-- TYPING LINES — 3 frases rotando -->
