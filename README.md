@@ -3,8 +3,7 @@
 <!-- ╔══════════════════════════════════════╗ -->
 <!-- ║         ANIMATED HEADER             ║ -->
 <!-- ╚══════════════════════════════════════╝ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:00fff022,50:ff00a033,70:00fff022,100:0a0a0f&height=200&section=header&text=CARLOS%20CUSTODIO&fontSize=52&fontFamily=Orbitron&fontColor=ffffff&animation=fadeIn&fontAlignY=60&stroke=00fff0&strokeWidth=1&desc=%3C%2F%20Full%20Stack%20Developer%20%3E&descSize=18&descAlignY=80&descAlign=50&descColor=ff00a0"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&pause=99999&color=00FFF0&center=true&vCenter=true&width=700&height=80&lines=CARLOS+CUSTODIO" alt="Name"/>
 
 <!-- TYPING LINES — 3 frases rotando -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=18&duration=3000&pause=800&color=00FFF0&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=%E2%96%B8+FULL+STACK+DEVELOPER+%E2%97%82;%24+building+the+future%2C+one+commit+at+a+time;Web+%C2%B7+Mobile+%C2%B7+Design+%C2%B7+Systems;%2F%2F+Transformando+ideas+en+resultados" alt="Typing"/>
@@ -30,14 +29,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&pause=99999&color=00FFF0&width=220&height=30&lines=%E2%9A%A1+ABOUT+ME" alt="section"/>
 
 ```yaml
-╔══════════════════════════════════════════════════════╗
-║  $ NAME     →  Carlos Manuel Custodio Then           ║
-║  $ ROLE     →  Full Stack Developer                  ║
-║  $ LOCATION →  República Dominicana 🇩🇴              ║
-║  $ FOCUS    →  Web · Mobile · Design · Systems       ║
-║  $ MINDSET  →  Transformar ideas en resultados       ║
-║  $ STATUS   →  Always building something new...  █   ║
-╚══════════════════════════════════════════════════════╝
+NAME     : Carlos Manuel Custodio Then
+ROLE     : Full Stack Developer
+LOCATION : República Dominicana 🇩🇴
+FOCUS    : Web · Mobile · Design · Systems
+MINDSET  : Transformar ideas en resultados concretos
 ```
 
 ---
@@ -47,17 +43,6 @@
 <!-- ╚══════════════════════════════════════╝ -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&pause=99999&color=00FFF0&width=220&height=30&lines=%E2%9A%A1+TECH+STACK" alt="section"/>
-
-<div align="center">
-
-<!-- ROW 1: Backend -->
-<img src="https://skillicons.dev/icons?i=cs,dotnet,kotlin&theme=dark&perline=10"/>
-
-<!-- ROW 2: Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma&theme=dark&perline=10"/>
-
-<!-- ROW 3: DB & Tools -->
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,vscode,github,androidstudio&theme=dark&perline=10"/>
 
 </div>
 
@@ -146,9 +131,9 @@ Plataforma de gestión de tickets y eventos pensada para optimizar la experienci
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=carlirouscust&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0a0f&title_color=00fff0&icon_color=ff00a0&text_color=ffffff&ring_color=ff00a0&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlirouscust&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0a0f&title_color=00fff0&icon_color=ff00a0&text_color=ffffff"/>
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlirouscust&layout=compact&theme=synthwave&hide_border=true&bg_color=0a0a0f&title_color=00fff0&text_color=ffffff&langs_count=8"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlirouscust&layout=compact&theme=synthwave&hide_border=true&bg_color=0a0a0f&title_color=00fff0&text_color=ffffff"/>
 
 <br/><br/>
 
